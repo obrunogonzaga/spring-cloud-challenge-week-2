@@ -19,4 +19,4 @@ zuul:
     monolito:
       path: /monolito/**
     legacy:
-      path: /**
+      path: /monolito/**
